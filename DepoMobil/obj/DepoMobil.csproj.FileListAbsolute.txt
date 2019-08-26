@@ -1,0 +1,50 @@
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\DepoMobil.exe
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\DepoMobil.pdb
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.Common.dll
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlServerCe.xml
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlClient.xml
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\bin\Debug\System.Data.Common.xml
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Aktarma.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.BaslikKaydet.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.ConfigurationForm.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.DetayKaydet.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Form1.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Kayitlar.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.KayitlarDetay.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Properties.Resources.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.siraliliste.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.StokKontrol.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.topluliste.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Yukleme.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.YuklemeDetay.resources
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.csproj.GenerateResource.Cache
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.exe
+C:\Documents and Settings\Zafer\Belgelerim\Visual Studio 2005\Projects\DepoMobil\DepoMobil\obj\Debug\DepoMobil.pdb
+G:\DepoMobil\DepoMobil\bin\Debug\DepoMobil.exe
+G:\DepoMobil\DepoMobil\bin\Debug\DepoMobil.pdb
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.Common.dll
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlClient.dll
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlServerCe.dll
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlServerCe.xml
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.SqlClient.xml
+G:\DepoMobil\DepoMobil\bin\Debug\System.Data.Common.xml
+G:\DepoMobil\DepoMobil\obj\Debug\ResolveAssemblyReference.cache
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Aktarma.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.BaslikKaydet.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.ConfigurationForm.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.DetayKaydet.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Form1.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Kayitlar.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.KayitlarDetay.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Properties.Resources.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.siraliliste.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.StokKontrol.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.topluliste.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.Yukleme.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.YuklemeDetay.resources
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.csproj.GenerateResource.Cache
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.exe
+G:\DepoMobil\DepoMobil\obj\Debug\DepoMobil.pdb
